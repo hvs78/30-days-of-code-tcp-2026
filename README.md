@@ -6,6 +6,7 @@ Name- Harsh Vardhan Srivastava
 Branch- MCA
 <br>
 Roll No.-  25223043
+<br>
 Day 1 Outputs-
 <br>
 <img width="1916" height="1004" alt="day 1 -1" src="https://github.com/user-attachments/assets/5d267cb2-21b5-4f5d-a3a1-a4f2c585c0ce" />
