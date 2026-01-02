@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Fest 2026 - NIT Raipur</title>
+</head>
+<body>
+    <h1>Tech Fest 2026 - NIT Raipur</h1>
+    <br>
+    <h2>Event Schedule</h2>
+    <table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>11:00 AM</td>
+                <td>Inauguration Ceremony</td>
+                <td>HIRA Auditorium</td>
+            </tr>
+            <tr>
+                <td>12:30 PM</td>
+                <td>Coding Competition</td>
+                <td>Computer Lab 101</td>
+            </tr>
+            <tr>
+                <td>3:00 PM</td>
+                <td>Tech Workshops</td>
+                <td>IT Block</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <br>
+    <h2>Event Registration Form</h2>
+    <form action="details.html" method="post">
+
+        <label for="name">Full Name: </label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email Address: </label>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="age">Age: </label>
+        <input type="number" name="age" id="age"><br><br>
+        <label for="dop">Date of Participation: </label>
+        <input type="date" id="dop" name="dop"><br><br>
+        <label for="roll">Roll No.: </label>
+        <input type="number" name="roll" id="roll"><br><br>
+
+        <label>Ticket Type:  </label>
+        <input type="radio" id="student" name="ticket" value="Student">
+        <label for="student">Student</label>
+        <input type="radio" id="Faculty" name="ticket" value="Faculty">
+        <label for="Faculty">Faculty</label>
+        <input type="radio" id="Guest" name="ticket" value="Guest">
+        <label for="Guest">Guest</label><br><br>
+
+        <label >Workshop Preferences:</label><br><br>
+        <input type="checkbox" id="ai" name="Workshop" value="AI">
+        <label for="ai">Artificial Intelligence</label><br>
+        <input type="checkbox" id="web" name="Workshop" value="Web">
+        <label for="web">Web Development</label><br>
+        <input type="checkbox" id="robotics" name="Workshop" value="Robotics">
+        <label for="robotics">Robotics</label><br><br>
+
+        <label for="comments">Comments: </label>
+        <textarea name="comments" id="comments" rows="4" cols="30" placeholder="Please give your valuable suggestion here."></textarea><br><br>
+
+        <button type="submit">Submit</button>
+
+    </form>
+
+</body>
+</html>
