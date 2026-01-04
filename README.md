@@ -20,4 +20,23 @@ Day 1 Outputs-
  
 <img width="1907" height="1000" alt="Screenshot 2026-01-02 133909" src="https://github.com/user-attachments/assets/f8ca36d7-0ced-4542-a681-570965896648" />
 
+<br><br>
+Day 3 Output-
+
+<img width="1919" height="1003" alt="Screenshot 2026-01-03 192449" src="https://github.com/user-attachments/assets/bbbc1909-e625-41ea-8cf6-093d1cfc543e" />
+<img width="1919" height="1002" alt="Screenshot 2026-01-03 192507" src="https://github.com/user-attachments/assets/b948abc8-7d2b-43bf-a4a8-858cee3ba2e5" />
+<img width="1917" height="1000" alt="Screenshot 2026-01-03 192523" src="https://github.com/user-attachments/assets/6ee37aa7-5cb9-4627-95c6-626d009e4ed3" />
+
+<img width="1918" height="670" alt="Screenshot 2026-01-03 195126" src="https://github.com/user-attachments/assets/6571faf3-7d60-43e9-bde6-a97360fc9f9f" />
+
+<img width="1919" height="1004" alt="Screenshot 2026-01-03 195143" src="https://github.com/user-attachments/assets/102cbc8f-8931-4741-ae5a-8d3e2cf2267d" />
+
+
+
+
+
+
+
+
+
 
