@@ -32,6 +32,11 @@ Day 3 Output-
 <img width="1919" height="1004" alt="Screenshot 2026-01-03 195143" src="https://github.com/user-attachments/assets/102cbc8f-8931-4741-ae5a-8d3e2cf2267d" />
 
 
+<br> <br>
+<img width="1919" height="1005" alt="Screenshot 2026-01-04 224245" src="https://github.com/user-attachments/assets/e290e448-e29d-4467-a753-e900462ebdc5" />
+
+
+<img width="1919" height="992" alt="Screenshot 2026-01-04 224551" src="https://github.com/user-attachments/assets/462e30a3-c8fa-4b74-8d12-b2ad5152ecd6" />
 
 
 
