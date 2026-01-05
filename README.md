@@ -39,10 +39,14 @@ Day 4 Output-
 
 <img width="1919" height="992" alt="Screenshot 2026-01-04 224551" src="https://github.com/user-attachments/assets/462e30a3-c8fa-4b74-8d12-b2ad5152ecd6" />
 
+<br><br>
+Day 5 Output-
+<br>
+
+<img width="1919" height="996" alt="Screenshot 2026-01-05 141614" src="https://github.com/user-attachments/assets/ac55d0b6-0240-46e4-8db1-a72757f90c71" />
 
 
 
-
-
+<img width="1919" height="999" alt="Screenshot 2026-01-05 141639" src="https://github.com/user-attachments/assets/1bfaec27-b8f0-47a1-9bf2-ecea18931e8e" />
 
 
