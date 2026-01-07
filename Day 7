@@ -1,0 +1,29 @@
+class Solution {
+public:
+    vector<int> largest(int n)
+    {
+        int m=0,s=0;
+        while(n>0)
+        {
+            m=max(m,n%10);
+            n=n/10;
+            s++;
+            }
+            return {m,s};
+    }
+    int sumOfEncryptedInt(vector<int>& nums) {
+        int s1=0;
+        for(int i=0;i<nums.size();i++)
+        {
+            vector<int> l=largest( nums[i]);
+            int s=0;
+            while(l[1]>0)
+            {
+                s=s*10+l[0];
+                l[1]--;
+            }
+            s1=s1+s;
+        }
+        return s1;
+    }
+};
