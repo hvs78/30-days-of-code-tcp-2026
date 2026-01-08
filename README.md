@@ -54,5 +54,8 @@ Day 6 Output-
 <br><br>
      <img width="1080" height="2400" alt="Screenshot_20260106-220408 Chrome" src="https://github.com/user-attachments/assets/cb81a241-b851-4ace-8d8d-a875b4ebc897" />
 
-
+<br><br>
+Day 7 Output-
+<br>
+<img width="1914" height="993" alt="Screenshot 2026-01-07 195143" src="https://github.com/user-attachments/assets/85a8e22f-c6d3-477b-896d-4101ae33416e" />
 
