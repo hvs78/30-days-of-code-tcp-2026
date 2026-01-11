@@ -70,4 +70,8 @@ Day 9 Output-
 Day 10 Output-
 <br>
 <img width="1919" height="1006" alt="Screenshot 2026-01-10 213040" src="https://github.com/user-attachments/assets/f5100502-af00-4807-8c8a-5d6eaf771a2f" />
+<br> <br>
+Day 11 Output-
+<br>
+<img width="1919" height="1006" alt="Screenshot 2026-01-11 213121" src="https://github.com/user-attachments/assets/a81e606b-0ce6-4fa2-a1a3-68382e19c885" />
 
