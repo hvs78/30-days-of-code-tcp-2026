@@ -1,0 +1,52 @@
+class Solution {
+public:
+    int fo(vector<int> n,int l1,int t)
+    {
+        int s=0;
+        int e=l1-1;
+        int f=-1;
+        while(s<=e)
+        {
+            int mid=(s+e)/2;
+            if(n[mid]==t)
+            {
+                f=mid;
+                e=mid-1;
+            }
+            else if(n[mid]>t)
+            e=mid-1;
+            else
+            s=mid+1;
+        }
+        return f;
+    }
+    int lo(vector<int> n,int l1,int t)
+    {
+        int s=0;
+        int e=l1-1;
+        int l=-1;
+        while(s<=e)
+        {
+            int mid=(s+e)/2;
+            if(n[mid]==t)
+            {
+                l=mid;
+                s=mid+1;
+            }
+            else if(n[mid]>t)
+            e=mid-1;
+            else
+            s=mid+1;
+        }
+        return l;
+    }
+    
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int n=nums.size();
+        int a=fo(nums,n,target);
+        if(a==-1)
+        return {-1,-1};
+        int b=lo(nums,n,target);
+        return {a,b};
+    }
+};
